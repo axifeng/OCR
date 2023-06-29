@@ -1,0 +1,3 @@
+rgb_image_00009.png	鼠标左键单击输入标注信息
+rgb_image_00000.png	鼠标左键单击输入标注信息
+rgb_image_00007.png	鼠标左键单击输入标注信息
